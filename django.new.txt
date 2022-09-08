@@ -1,1 +1,2 @@
-django is web application services
+django is web web framework
+mant popular websites are designed using django frame work
